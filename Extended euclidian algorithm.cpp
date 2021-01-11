@@ -20,11 +20,11 @@ int main()
      t1=t2;
      t2=t;
  }
- //*
+ /*
  given equation is aXg+bYg=gcd(a,b)
  g means g=gcd(a,b)
  s1=Xg and t1=Yg
- *//
+ */
  int g=(s1*temp1)+(t1*temp2);
  cout<<"gcd of the of the number is:"<<g<<endl;
 
